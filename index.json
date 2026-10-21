@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "simpervisor",
+  "versions": [
+    {
+      "commit": "24730d8bf9574e1adfb755804882acedd3696855",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:49:28.859813+00:00"
+    }
+  ]
+}
